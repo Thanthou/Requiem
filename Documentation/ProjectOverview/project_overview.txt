@@ -1,5 +1,5 @@
-Requiem is a platform where expert contributions in various fields enhance a growing knowledge base. 
-Natural Language Model (NLM) process and augmented this data.
+Requiem is a platform where contributions from various fields enhance a growing knowledge base. 
+Natural Language Models (NLMs) process and augmented this knowledge base.
 Additionally, the Q* component is responsible for generating synthetic data to further enrich this knowledge base.
 
 ### Project Name: Requiem
