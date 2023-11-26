@@ -13,11 +13,11 @@ This is achieved through direct contributions from experts and the generation of
 ### Core Components
 
 1. **Expert Contributions**:
-   - Platform allows experts to submit articles, research findings, and insights.
+   - Platform allows users/experts to submit articles, research findings, and insights.
    - The contributed content continually expands the platform's knowledge base.
 
 2. **Natural Language Model (NLM)**:
-   - Analyzes and processes the expert contributions.
+   - Analyzes and processes the users contributions.
    - Summarizes, categorizes, and integrates new data into the existing knowledge base.
    - Enhances content accessibility and comprehension for a wider audience.
 
